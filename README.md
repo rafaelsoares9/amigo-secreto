@@ -24,3 +24,9 @@ As tecnologias usadas no projeto foram <br>
 👉 <a href = "https://amigo-secreto-three-zeta.vercel.app/" target = "_blank" > jogo do amigo secreto</a> 
 
 </p>
+
+<h1 align="center"> Demonstração </h1>
+
+[Uploading 2025-02-03 22-38-37.mp4…](https://github.com/user-attachments/assets/71ca06d4-4345-476d-948f-090c6b324ef0)
+
+
