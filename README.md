@@ -25,6 +25,13 @@ As tecnologias usadas no projeto foram <br>
 
 </p>
 
+<h1 align="center"> 📜 Certificação </h1>
+<p>Adquirir a seguinde insignia pelo projeto concluído </p>
+
+<p align="center">
+<img src = "https://github.com/user-attachments/assets/e0727498-95ac-424b-b55d-3fa081496d45" width = "300"
+</p>
+
 <h1 align="center"> Demonstração </h1>
 
 [Uploading 2025-02-03 22-38-37.mp4…](https://github.com/user-attachments/assets/71ca06d4-4345-476d-948f-090c6b324ef0)
